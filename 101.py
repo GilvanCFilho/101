@@ -29,10 +29,5 @@ print(int('1') + 3) #ex coearção de '1'(str) para int e somando com 3
 print(float('5') + 3) #ex para converção 
 
 
-"""
 
-Var são para salvar infos na memoria 
-#ex 
-
-"""
       
