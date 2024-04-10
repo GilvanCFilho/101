@@ -45,3 +45,15 @@ calc in var
 calc_102 = 36 + 235 / 3 *10 **2
 print(calc_102)
 
+"""
+f-strings usadas para ativar vars dentro de strings
+"""
+
+a_b = 195
+b_c = 142
+
+soma = a_b + b_c
+
+sla_1 = f'a soma de {a_b} e {b_c} é igual {soma}'
+
+print(sla_1) #ex de fstring
