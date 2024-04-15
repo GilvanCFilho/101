@@ -57,3 +57,13 @@ soma = a_b + b_c
 sla_1 = f'a soma de {a_b} e {b_c} é igual {soma}'
 
 print(sla_1) #ex de fstring
+
+"""
+Operadores de comparação relacionais
+ > Maior ex 2>1
+ >= maior ou igual 2>= 2
+ < menor 1<2
+ <= menor ou igual 2<= 2
+ == igual 'a' == 'a'
+ != diferente 'a' = 'b'   
+"""
